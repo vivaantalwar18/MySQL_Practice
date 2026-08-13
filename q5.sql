@@ -1,0 +1,12 @@
+select sqrt(-10);
+select rand();
+select truncate(4.44353745,3);
+select sign(-5);
+select sign(5);
+select now();
+select curdate();
+select sysdate();
+select date(now());
+select day("2025-02-01");
+select month("2025-02-01");
+select year("2025-02-01");
